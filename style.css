@@ -65,7 +65,7 @@ body{
     animation-iteration-count: infinite;
     animation-timing-function: linear;
 }
-@gkeyframes Pangolier {
+@keyframes Pangolier {
     0%{
         transform:rotate(0deg);
     }
